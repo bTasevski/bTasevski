@@ -1,6 +1,4 @@
    ## 👋 Hi, I’m @bTasevski
-- 📖 I’m currently learning React with TypeScript by building web app https://github.com/bTasevski/frontend-restaurant-app
-- 🔎 Looking for first job as React Developer
 - 📧 Contact me: bojan.tasevski97@gmail.com
 
 <!---
